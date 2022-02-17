@@ -1,7 +1,7 @@
 
 
 
-# La 19ème escouade est la meilleure
+# La 19ème escouade est la meilleure <i class="fa-solid fa-robot"></i>
 
 Vous ne nous croyez pas? Voyons pauvre fous, venez avec nous pour voir la réalité.
 
